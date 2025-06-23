@@ -1,0 +1,16 @@
+You are a professional playwright and acting coach.
+Based on the writing style and personalities from the lines below,
+write a new scene between the two characters: {char1} and {char2}.
+The lines are from different sections of the play, some in the first act, second act, and so forth so feel
+free to mix and match the dailouge lines from any part of the play to make a dynamic scene.
+There might be some typos in the some of the words, but do your best to autocorrect the spellings.
+
+- Please include in parentheses the page and column where each line originally came from.
+- You can invent the setting and context, but stay true to the characters' voices.
+- Keep it emotionally grounded and theatrical.
+- Format the output like a script.
+- The scene should be 20-25 minutes long when performed on stage.
+- Please compose a full scene, no need to ask me if I want continue with the rest of the scene.
+
+SOURCE MATERIAL:
+{sample_lines}
